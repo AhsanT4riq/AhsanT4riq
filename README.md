@@ -1,7 +1,4 @@
-# Hi, I'm Ahsan
-
-**LinkedIn:** https://www.linkedin.com/in/ahsant4riq  
-**Email:** ahsan_work@outlook.com
+# Hi, I'm Ahsan <br>[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ahsant4riq/)  [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ahsan_work@outlook.com)
 
 Senior Software Engineer focused on React Native and React.  
 I build mobile and web applications with clean architecture, smooth UI, and reliable releases.
